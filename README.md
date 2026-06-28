@@ -1139,6 +1139,8 @@ $routes->post('ajax/delete', 'AjaxController::delete');
 // --- Rute REST API (Praktikum 10) ---
 $routes->resource('post');
 ```
+## 💻 Demo Dan Presentasi
+https://youtu.be/ml-04E3L2Qc?si=qG_s3tx433svlFqX
 
 # 📄 Lisensi
 
