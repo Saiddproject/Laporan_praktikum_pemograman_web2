@@ -1140,7 +1140,7 @@ $routes->post('ajax/delete', 'AjaxController::delete');
 $routes->resource('post');
 ```
 ## 💻 Demo Dan Presentasi
-https://youtu.be/ml-04E3L2Qc?si=qG_s3tx433svlFqX
+https://youtu.be/xSLnUk1XGf4?si=Xu98Du_M1vnNvqk0
 
 # 📄 Lisensi
 
